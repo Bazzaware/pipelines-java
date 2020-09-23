@@ -1,4 +1,4 @@
-
+[![Build Status](https://bazzaware.visualstudio.com/Bazzaware/_apis/build/status/Bazzaware.pipelines-java?branchName=master)](https://bazzaware.visualstudio.com/Bazzaware/_build/latest?definitionId=16&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
